@@ -15,7 +15,7 @@ add:
     git add .
 
 commit:
-    git commit -m "Actualizar archivos del proyecto"
+    git commit -m "archivo del proyecto"
 
 sync:
     git pull
